@@ -1,0 +1,79 @@
+
+
+
+body{
+
+background-color:#fffdbd;
+font-family: 'Crimson Text', serif;
+font-size:23px;
+
+
+
+
+}
+
+header#page_header nav ul li{
+  list-style:none;
+}
+
+a{
+  text-decoration:none;
+  float:left;
+  height:auto;
+  line-height: normal;
+  padding: 10px;
+  margin: 5px;
+  border-top-left-radius: 5px;
+  background-color:#ffffff ;
+  font-size: 13px
+  color:#a4ebdf;
+  font-family:'Crimson Text', serif;
+
+}
+
+a:hover{
+  background-color: #c1cde3 ;
+  font-family: 'Crimson Text', serif;
+
+}
+
+.top{
+  color: #a4ebdf;
+
+}
+
+#front{
+  font-family: 'Dancing Script', cursive;
+  font-size:50px;
+}
+
+#pic{
+  width:600px;
+  height:400px;
+}
+#paint{
+  width:600px;
+  height:400px;
+
+}
+#work{
+  width: 600px;
+  height: 400px;
+
+}
+
+#rj{
+  width: 400px;
+  height: 300px;
+
+}
+#volcano{
+  width: 409px;
+  height: 270px;
+
+}
+#clancy{
+  width: 400px;
+  height: 300px;
+
+}
